@@ -7,7 +7,7 @@ import joblib
 model = joblib.load("mpg_model_final.pkl")
 
 # MPG categories
-mpg_categories = ["Eco Warrior Mode", "Smart Saver mode", "Think before you fill", "Fuel Monster"]
+mpg_categories = ["Α-Eco Warrior Mode", "B-Smart Saver mode", "C-Think before you fill", "D-Fuel Monster"]
 
 # App title
 st.title("Fuel iQ 🚗⛽")
