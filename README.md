@@ -1,5 +1,7 @@
 # 🎈FueliQ App and Fuel-efficiency Classification Project
 
+This is a project for the We Lead Data Science and Business Insights bootcamp! The FueliQ app & model was build by Alexandra Vasileiadou, Ioanna Delemissi, Eleni Kakouri, Margarita Meletlidou & Maria Motsakou
+
 ## To Run the FueliQ APP: 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
