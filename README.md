@@ -5,7 +5,7 @@ This is a project for the We Lead Data Science and Business Insights Bootcamp! T
 ## To Run the FueliQ APP: 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
-### How to run it on your own machine
+#### How to run it on your own machine
 1. Install the requirements
 
    ```
